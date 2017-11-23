@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c071622e5ecacf54b9c5f4bda3236f48
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - btnLeftTexture: {instanceID: 0}
+  - btnRightTexture: {instanceID: 0}
+  - btnMiddleTexture: {instanceID: 0}
+  - btnRestartTexture: {instanceID: 0}
+  - btnBackTexture: {instanceID: 0}
+  - mainSkin: {fileID: 11400000, guid: 70985937465306e4290e2e1b1221fa7a, type: 2}
+  - keySkin: {fileID: 11400000, guid: f8332144d96b8ca46af1347a1b4e78d2, type: 2}
+  - btnUpSkin: {fileID: 11400000, guid: c8be71b2c5898d944b52e753d5f5a9c5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
